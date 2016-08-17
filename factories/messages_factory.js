@@ -1,3 +1,5 @@
+var app = angular.module('MessagesService', []);
+
 app.factory('MessagesService', function () {
   return {
     all: [
