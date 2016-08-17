@@ -25,9 +25,9 @@ ngRoute is an Angular module that we can use to add routing to our application.
 __There are 3 steps for setting up ngRoute. See if you can remember them.__
 (Don't add any routes yet! Just get ngRoute configured in your app)
 
-1. -
-2. -
-3. -
+1. - Added script tags
+2. - Included ngRoute
+3. - Add ngRoute script tag
 
 ## Step 2: Be able to associate different templates with different routes
 
@@ -55,8 +55,8 @@ The factory has been built for you, you just need to get everything talking.
 
 __This requires two steps similar to previous steps you've taken to wire up new things.__
 
-1. -
-2. -
+1. Added script tag
+2. Inject factory into controllers
 
 ## Step 3.5: Display the seed message when the use hits the home page.
 
